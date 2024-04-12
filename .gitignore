@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+venv/
+*.mp3
+.idea/
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/cutMP3.iml
